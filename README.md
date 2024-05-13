@@ -21,4 +21,17 @@ python main.py --lr 0.01 --weight_decay 0.0005 --hid_dim 256  --dropout 0.5 --ga
 ```
 
 
+#### Citation
+
+```
+@inproceedings{lu2024nodemixup,
+  title={Nodemixup: Tackling under-reaching for graph neural networks},
+  author={Lu, Weigang and Guan, Ziyu and Zhao, Wei and Yang, Yaming and Jin, Long},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={13},
+  pages={14175--14183},
+  year={2024}
+}
+```
 
